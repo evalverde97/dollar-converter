@@ -7,7 +7,7 @@ Este script en Node.js convierte un precio de USD a pesos argentinos utilizando 
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/conversor-de-moneda.git
+   git clone https://github.com/evalverde97/dollar-converter.git
 
 Instala las dependencias:
 
